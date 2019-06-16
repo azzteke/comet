@@ -1,0 +1,1 @@
+sqlite3 places.sqlite "delete from moz_places where url like '%navigator%';"
